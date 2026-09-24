@@ -27,9 +27,9 @@ I'm Yasin, an aspiring developer interested in programming and bringing apps to 
 - 🧪 Exploring: **[Website Development]**
 
 ## 📫 Find me
-<img src="assets/icons/HangingStars1.png" width="50"> LinkedIn: [Yasin Kanlioglu](https://www.linkedin.com/in/yasin-kanlioglu-7a5569379)<br>
-<img src="assets/icons/HangingStars2.png" width="50"> Website: [N/A](n/a)<br>
-<img src="assets/icons/HangingStars3.png" width="50"> Indeed: [Yasin Kanlioglu](https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-homepage)
+<img src="assets/icons/HangingStars1.png" width="20" alt=""> LinkedIn: [Yasin Kanlioglu](https://www.linkedin.com/in/yasin-kanlioglu-7a5569379)<br>
+<img src="assets/icons/HangingStars2.png" width="20" alt=""> Website: [N/A](n/a)<br>
+<img src="assets/icons/HangingStars3.png" width="20" alt=""> Indeed: [Yasin Kanlioglu](https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-homepage)
 
 <div align="center">
 
