@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="assets/icons/dash1.png" width="50"><img src="assets/icons/dash2.png" width="50"><img src="assets/icons/dash3.png" width="50"><img src="assets/icons/dash4.png" width="50">
+## <img src="assets/icons/dash1.png" width="35"><img src="assets/icons/dash2.png" width="35"><img src="assets/icons/dash3.png" width="35"><img src="assets/icons/dash4.png" width="35">
 
 I'm Yasin, an aspiring developer interested in programming and bringing apps to life. Right now, I'm learning [Java]!
 
