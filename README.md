@@ -28,11 +28,9 @@ I'm Yasin, an aspiring developer interested in programming and bringing apps to 
 
 ## 📫 Find me
 
-<img src="assets/icons/Sprite-00021.png" width="25">LinkedIn: [Yasin Kanlioglu](https://www.linkedin.com/in/yasin-kanlioglu-7a5569379)
-
-<img src="assets/icons/Sprite-00022.png" width="25">Website: [N/A](n/a)
-
-<img src="assets/icons/Sprite-00023.png" width="25">Indeed: [Yasin Kanlioglu](https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-homepage)
+<img src="assets/icons/Sprite-00021.png" width="25"> LinkedIn: [Yasin Kanlioglu](https://www.linkedin.com/in/yasin-kanlioglu-7a5569379)
+<img src="assets/icons/Sprite-00022.png" width="25"> Website: [N/A](n/a)
+<img src="assets/icons/Sprite-00023.png" width="25"> Indeed: [Yasin Kanlioglu](https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-homepage)
 
 <div align="center">
 
