@@ -21,7 +21,7 @@
 
 I'm Yasin, an aspiring developer interested in programming and bringing apps to life. Right now, I'm learning [Java]!
 
-## 🌱 What I'm focused on
+## <img src="assets/icons/sparkle_dash1.png" width="25"><img src="assets/icons/sparkle_dash2.png" width="25"><img src="assets/icons/sparkle_dash3.png" width="25">
 
 - 📚 Learning: **[Java Spring]**
 - 🧪 Exploring: **[Website Development]**
