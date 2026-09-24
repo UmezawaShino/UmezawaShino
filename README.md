@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:99FFFD,50:83DEBB,100:74EDD7&height=180&section=header&text=Hello%20There,%20I'm%20Yasin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=[Developer%20and%20Owner%20@Hysteria]&descSize=16&descAlignY=58" width="100%" alt="Colorful profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:99FFFD,50:83DEBB,100:74EDD7&height=180&section=header&text=Hello,%20I'm%20Yasin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=[Developer%20and%20Owner%20@Hysteria]&descSize=16&descAlignY=58" width="100%" alt="Colorful profile banner" />
 
 <a href="https://github.com/UmezawaShino">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Exploring+new+ways+to+grow;Expanding+Hysteria" alt="Animated introduction" />
@@ -19,8 +19,7 @@
 
 ## 👋 A little about me
 
-I'm Yasin, an aspiring developer interested in programming and bringing apps to life.  
-Right now, I'm learning Java!
+I'm Yasin, an aspiring developer interested in programming and bringing apps to life. Right now, I'm learning [Java]!
 
 ## 🌱 What I'm focused on
 
