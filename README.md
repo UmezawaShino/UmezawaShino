@@ -27,8 +27,8 @@ I'm Yasin, an aspiring developer interested in programming and bringing apps to 
 
 ## <img src="assets/icons/dash1.png" width="25"><img src="assets/icons/dash2.png" width="25"><img src="assets/icons/dash3.png" width="25"><img src="assets/icons/dash4.png" width="25">
 
-<img src="assets/icons/HangingStars3.png" width="20" alt=""> Learning: **[Java Spring]**<br>
-<img src="assets/icons/HangingStars3.png" width="20" alt=""> Exploring: **[Website Development]**<br>
+<img src="assets/icons/HangingStars1.png" width="20" alt=""> Learning: **[Java Spring]**<br>
+<img src="assets/icons/HangingStars2.png" width="20" alt=""> Exploring: **[Website Development]**<br>
 <img src="assets/icons/HangingStars3.png" width="20" alt=""> Leading: **[[Hysteria](https://discord.com/invite/path-to-hysteria)]**
 
 <div align="center">
